@@ -11,7 +11,7 @@
 
 ## 🔬 Research & Specialization
 
-I specialize in **Machine Learning and Artificial Intelligence**, with a strong interest in building intelligent systems that solve real-world and Africa-focused problems. My key research interests include:
+I specialize in **Machine Learning**, with a strong interest in building intelligent systems that solve real-world and Africa-focused problems. My key research interests include:
 
 * 🤖 Machine Learning Systems
 * 🧠 Artificial Intelligence

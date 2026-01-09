@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Limpho Elizabeth Semakale
 
-🎓 **Software Engineering Student**
-🏫 **African Leadership University (ALU)**, Kigali, Rwanda
+ **Software Engineering Student**
+ **African Leadership University (ALU)**, Kigali, Rwanda
 
-🤖 **Machine Learning & Artificial Intelligence Enthusiast**
+ **Software Engineering Student | Machine Learning Enthusiast | Full-Stack Developer**
 
 ![AI GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ---
 
-## 🔬 Research & Specialization
+## Specialization
 
 I specialize in **Machine Learning**, with a strong interest in building intelligent systems that solve real-world and Africa-focused problems. My key research interests include:
 
@@ -21,7 +21,7 @@ I specialize in **Machine Learning**, with a strong interest in building intelli
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### Programming Languages
 

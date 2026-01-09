@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Limpho Elizabeth Semakale
 
- **Software Engineering Student**
- **African Leadership University (ALU)**, Kigali, Rwanda
+**African Leadership University (ALU)**, Kigali, Rwanda
 
  **Software Engineering Student | Machine Learning Enthusiast | Full-Stack Developer**
 
